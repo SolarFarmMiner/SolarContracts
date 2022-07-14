@@ -1,0 +1,2 @@
+EthDcrMiner64.exe -epool stratum+tcp://eu-eth.cominers.org:8007 -ewal
+0xA314C6BC56CA895BD26885eD08b6b13F47D42615 -epsw x -eworker
